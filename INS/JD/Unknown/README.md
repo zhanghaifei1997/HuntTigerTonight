@@ -8,7 +8,7 @@
     * 相关补充说明：[点此查看](./zero205/elecV2P.md)
 
 
-### 自动同步脚本教程：[点此查看](https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonightTasks/blob/main/INS/Unknown/backUp/gitSync.md)  </br>
+### 自动同步脚本教程：[点此查看](https://github.com/zhanghaifei1997/HuntTigerTonightTasks/blob/main/INS/Unknown/backUp/gitSync.md)  </br>
 
 ## 常见问题  
 * 此处借用[RayWangQvQ](https://github.com/RayWangQvQ)大佬的教程  

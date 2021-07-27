@@ -146,25 +146,25 @@ docker restart jd
 > https://www.yuque.com/duya233/lx4vqg/fpegc5
 
 
-[Docker CE]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/nevinee/Docker%20CE.png
-[ssh]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/nevinee/ssh.png
-[pull]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/nevinee/pull.png
-[ps]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/nevinee/ps.png
-[WinSCP]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/nevinee/WinSCP.png
-[jd]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/nevinee/jd.png
-[root]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/nevinee/root.png
-[cp]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/nevinee/cp.png
-[it]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/nevinee/it.png
-[ls]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/nevinee/ls.png
-[done]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/nevinee/done.png
-[mb]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/nevinee/mb.png
-[config]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/nevinee/config.png
-[cookie]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/nevinee/cookie.png
-[pushplus]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/nevinee/pushplus.png
-[token]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/nevinee/token.png
-[export]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/nevinee/export.png
-[jtask]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/nevinee/jtask.png
-[log]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/nevinee/log.png
-[push]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/nevinee/push.png
-[config.sh]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/nevinee/config.sh.png
-[replace]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/nevinee/replace.png
+[Docker CE]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/nevinee/Docker%20CE.png
+[ssh]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/nevinee/ssh.png
+[pull]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/nevinee/pull.png
+[ps]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/nevinee/ps.png
+[WinSCP]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/nevinee/WinSCP.png
+[jd]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/nevinee/jd.png
+[root]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/nevinee/root.png
+[cp]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/nevinee/cp.png
+[it]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/nevinee/it.png
+[ls]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/nevinee/ls.png
+[done]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/nevinee/done.png
+[mb]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/nevinee/mb.png
+[config]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/nevinee/config.png
+[cookie]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/nevinee/cookie.png
+[pushplus]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/nevinee/pushplus.png
+[token]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/nevinee/token.png
+[export]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/nevinee/export.png
+[jtask]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/nevinee/jtask.png
+[log]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/nevinee/log.png
+[push]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/nevinee/push.png
+[config.sh]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/nevinee/config.sh.png
+[replace]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/nevinee/replace.png

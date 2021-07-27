@@ -1,7 +1,7 @@
 # CN
 - **elecV2P**
   ```
-  https://ghproxy.com/https://raw.githubusercontent.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/main/Tasks/tasksubCN.json
+  https://ghproxy.com/https://raw.githubusercontent.com/zhanghaifei1997/HuntTigerTonight/main/Tasks/tasksubCN.json
   ```
   
 - **V2PTaskSub** *By sngxpro*

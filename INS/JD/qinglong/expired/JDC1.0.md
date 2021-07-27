@@ -142,5 +142,5 @@ nohup ./JDC &
 
 
 --------------------
-[cookie-get]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/qinglong/JDC/cookie-get.png
-[2]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/qinglong/JDC/2.png
+[cookie-get]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/qinglong/JDC/cookie-get.png
+[2]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/qinglong/JDC/2.png

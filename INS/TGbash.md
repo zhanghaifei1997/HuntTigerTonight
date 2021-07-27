@@ -166,7 +166,7 @@ crontab -e
 > 作品采用： 《 署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0) 》许可协议授权
 
 
-[telegram-cil-error.png]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/TGbash/telegram-cil-error.png  
-[telegram-app-login.png]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/TGbash/telegram-app-login.png  
-[app-key.png]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/TGbash/app-key.png  
-[telegram-cil-login.png]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/TGbash/telegram-cil-login.png
+[telegram-cil-error.png]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/TGbash/telegram-cil-error.png  
+[telegram-app-login.png]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/TGbash/telegram-app-login.png  
+[app-key.png]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/TGbash/app-key.png  
+[telegram-cil-login.png]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/TGbash/telegram-cil-login.png

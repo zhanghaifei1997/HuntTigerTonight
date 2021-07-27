@@ -238,6 +238,6 @@ exit
 
 
 
-[1]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/News/1.jpg  
-[2]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/News/2.jpg
-[3]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/News/3.jpg
+[1]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/News/1.jpg  
+[2]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/News/2.jpg
+[3]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/News/3.jpg

@@ -37,7 +37,7 @@
 助力说明:
 
 1. 助力相关不会内置了，不用再提issue
-2. 可以自己添加附件的 [code.sh](https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Conf/Qinglong/code.sh) 的定时任务，新建 task code.sh 即可，然后修改 [task_before.sh](https:zhanghaifei1997/HuntTigerTonightaifei1997/HuntTigerTonight/blob/main/Conf/Qinglong/task_before.sh) (https://t.me/jiaolongwang/120) 中的内容见上条通知
+2. 可以自己添加附件的 [code.sh](https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Conf/Qinglong/code.sh) 的定时任务，新建 task code.sh 即可，然后修改 [task_before.sh](https:zhanghaifei1997/HuntTigerTonight/blob/main/Conf/Qinglong/task_before.sh) (https://t.me/jiaolongwang/120) 中的内容见上条通知
 3. code.sh 中的 name_js 如果不一样，自行修改作者前缀
 4. ql update 执行后面板打不开的，执行 docker exec -it qinglong nginx -c /etc/nginx/nginx.conf 试试
 5. 频道发图文真难受

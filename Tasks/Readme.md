@@ -8,12 +8,12 @@
   
 - **Daily**
   ```
-  https://raw.githubusercontent.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/main/Tasks/Daily.json
+  https://raw.githubusercontent.com/zhanghaifei1997/HuntTigerTonight/main/Tasks/Daily.json
   ```
   
 - **News**
   ```
-  https://raw.githubusercontent.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/main/Tasks/News.json
+  https://raw.githubusercontent.com/zhanghaifei1997/HuntTigerTonight/main/Tasks/News.json
   ```
   
 - **V2PTaskSub** *By sngxpro*

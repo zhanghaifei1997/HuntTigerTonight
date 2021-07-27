@@ -94,7 +94,7 @@ async function handleRequest(request) {
 
 
 
-[workers]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/TGNginx/workers.png
-[create]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/TGNginx/create.png
-[script]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/TGNginx/script.png
-[push]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/TGNginx/push.png
+[workers]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/TGNginx/workers.png
+[create]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/TGNginx/create.png
+[script]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/TGNginx/script.png
+[push]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/TGNginx/push.png

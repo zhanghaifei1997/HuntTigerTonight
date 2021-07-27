@@ -232,12 +232,12 @@ nohup ./JDC &
 > https://www.kejiwanjia.com/zheteng/1483.html#i-4
 
 
-[我的目录]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/qinglong/JDC/%E6%88%91%E7%9A%84%E7%9B%AE%E5%BD%95.png
-[conf]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/qinglong/JDC/conf.png
-[控制面板]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/qinglong/JDC/%E6%8E%A7%E5%88%B6%E9%9D%A2%E6%9D%BF.png
-[main.go]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/qinglong/JDC/main.go.png
-[public]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/qinglong/JDC/public.png
-[help]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/qinglong/JDC/help.png
-[qlcode]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/qinglong/JDC/qlcode.png
-[reinstall]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/qinglong/JDC/reinstall.png
-[conf.toml]:https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/qinglong/JDC/conf.toml.png
+[我的目录]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/qinglong/JDC/%E6%88%91%E7%9A%84%E7%9B%AE%E5%BD%95.png
+[conf]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/qinglong/JDC/conf.png
+[控制面板]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/qinglong/JDC/%E6%8E%A7%E5%88%B6%E9%9D%A2%E6%9D%BF.png
+[main.go]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/qinglong/JDC/main.go.png
+[public]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/qinglong/JDC/public.png
+[help]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/qinglong/JDC/help.png
+[qlcode]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/qinglong/JDC/qlcode.png
+[reinstall]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/qinglong/JDC/reinstall.png
+[conf.toml]:https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/qinglong/JDC/conf.toml.png

@@ -186,10 +186,10 @@ kill -9 *****
 rm -rf JDC config.toml
 ```
 ## 界面展示
-<div align="center"><img src="https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/qinglong/JDC/JDC-1.png"></div>  
-<div align="center"><img src="https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/qinglong/JDC/JDC-2.png"></div>  
-<div align="center"><img src="https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/qinglong/JDC/JDC-3.png"></div>    
-<div align="center"><img src="https://github.com/zhanghaifei1997/HuntTigerTonighttTigerTonight/blob/main/Icons/qinglong/JDC/JDC-4.png"></div>
+<div align="center"><img src="https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/qinglong/JDC/JDC-1.png"></div>  
+<div align="center"><img src="https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/qinglong/JDC/JDC-2.png"></div>  
+<div align="center"><img src="https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/qinglong/JDC/JDC-3.png"></div>    
+<div align="center"><img src="https://github.com/zhanghaifei1997/HuntTigerTonight/blob/main/Icons/qinglong/JDC/JDC-4.png"></div>
 
 > 本文作者： HuaYu @一花一世界  
 > 本文链接： https://ihuayu8.cn/ql-get-cookie.html  
